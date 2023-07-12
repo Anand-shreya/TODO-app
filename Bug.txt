@@ -1,0 +1,10 @@
+Current Bugs:
+
+    CSS:
+    1) Background Colour   //solved
+    2) Text overflow in todo;    //solved
+    3) Todo and Add todo are not alligned      //solved
+
+Plans:
+
+    1) Add "No Pending TODO WELL DONE!!!"
